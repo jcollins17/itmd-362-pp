@@ -11,20 +11,24 @@
   <form action="#null" method="get" id="contactForm">
     <ol>
       <li>
-        <label for="email">Email:</label>
-        <input placeholder="JohnDoe@example.com" type="email" id="Email" name="Address" />
+        <label for="Email">Email:</label>
+        <input placeholder="JohnDoe@example.com" type="email" id="Email" name="Address"/>
       </li>
       <li>
         <label for="Phone">Phone Number:</label>
-        <input placeholder="xxx-xxx-xxxx" type="tel" id="Phone" name="phoneNumber" />
+        <input placeholder="xxx-xxx-xxxx" type="tel" id="Phone" name="phoneNumber"/>
       </li>
       <li>
         <label for="DoB">Date of Birth:</label>
-        <input type="Date" id="DoB" name="dateOfBirth" />
+        <input type="Date" id="DoB" name="dateOfBirth" required/>
+      </li>
+      <li>
+        <input type="submit" value="Submit"/>
       </li>
     </ol>
   </form>
 </main>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <script src="site.js"></script>
 </body>
 </html>
