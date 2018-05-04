@@ -15,18 +15,18 @@ your own master usability checklist.
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1.  http://drpete.co/?topic=25-point-website-usability-checklist
+2.  https://www.businessknowhow.com/marketing/webchecklist.htm
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1.  Site needs to have low load times
+2.  fonts need to be easy to read
+3.  Style is consistent
+4.  Ads are unobtrusive
+5.  Navigation is clear
+6.  Is page design responsive?
+7.  Is there a contact us link?
+8.  Does the website look good on all browsers
+9.  is there alternate text under graphics?
+10.  flash and add ons are used sparingly.
